@@ -1,9 +1,10 @@
 # Тестовое задание для компании ЮТОР
 
-### [Посмотреть приложение](https://ildarmjs.github.io/test/)
+### [Посмотреть здесь](https://ildarmjs.github.io/test/)
 
 <br/>
 
+### Для верстки использовал расширение google chrome "Pixel Perfect"
 
 ## Стек
 
@@ -17,6 +18,6 @@
 ## Инструкция по запуску приложения **локально**
 
 ```
-$ git clone https://github.com/ildarmjs/movie-app-rtk.git
+$ git clone https://github.com/ildarmjs/test.git
 $ cd test/
 ```
